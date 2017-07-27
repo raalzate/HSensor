@@ -1,0 +1,14 @@
+<resources>
+    <string name="wifi_disabled">¿Deseas habilitar la Wifi?</string>
+    <string name="enable_wifi">Habilitar WIFI</string>
+    <string name="exit_app">Volver a intentar</string>
+    <string name="wifi_not_found">Network %s not found.</string>
+    <string name="wifi_not_connected">No se pudo conectar al sensor: %s</string>
+    <string name="connecting_to_wifi">Conectandose al Sensor: %s</string>
+    <string name="connecting">Conectando...</string>
+    <string name="app_name">Home Sensor</string>
+    <string name="text_header">CONFIGURACIÓN DEL SENSOR</string>
+    <string name="wifi_ssid">SensorUseHome</string>
+    <string name="wifi_password">12345678</string>
+    <string name="mess_success">Por favor espere mientras verifica el estado del sensor</string>
+</resources>
